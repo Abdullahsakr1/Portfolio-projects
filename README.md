@@ -3,4 +3,6 @@
 My passion for problem-solving and analytical thinking naturally led me to pursue a career in cybersecurity. I leverage my strengths, core values, and deep interest in the field to align with and achieve the security objectives of the organizations I serve.</p>
 <h1>Cybersecurity Projects</h1>
 <br>
-https://docs.google.com/document/d/1yj7nhoWh__CIowNbX-uKGpub9h7SrKz_fWYJXXiNfEM/edit?usp=sharing
+<a href="https://docs.google.com/document/d/1yj7nhoWh__CIowNbX-uKGpub9h7SrKz_fWYJXXiNfEM/edit?usp=sharing">Controls and Compliance Checklist for Botium Toys (fictional company)</a>
+<p>Completed a controls and compliance checklist to evaluate Botium Toys’ security controls and adherence to compliance regulations (PCI DSS, GDPR, SOC).</p>
+
