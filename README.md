@@ -5,4 +5,5 @@ My passion for problem-solving and analytical thinking naturally led me to pursu
 <br>
 <a href="https://docs.google.com/document/d/1yj7nhoWh__CIowNbX-uKGpub9h7SrKz_fWYJXXiNfEM/edit?usp=sharing">Controls and Compliance Checklist for Botium Toys (fictional company)</a>
 <p>Completed a controls and compliance checklist to evaluate Botium Toys’ security controls and adherence to compliance regulations (PCI DSS, GDPR, SOC).</p>
+<a href="https://docs.google.com/document/d/1U4EDrjJmP_Hyfml5av0w33F0ZvzApfHCS-GGNVXnhNI/edit?usp=sharing">
 
