@@ -16,3 +16,5 @@ My passion for problem-solving and analytical thinking naturally led me to pursu
 <p>A hands-on project showcasing how to inspect and secure file and directory permissions in Linux using <B>ls</B> and<B>chmod</B> commands.</p>
 <br>
 <a href="https://docs.google.com/document/d/1zoDrZ8IkiPkLe3dOZUSPMJFiZOUUk_C20RrUoW1OCMs/edit?usp=sharing">ShieldLog: Investigating System Security with SQL</a>
+<p>Investigating failed logins and potential threats through SQL queries.</p>
+<br>
