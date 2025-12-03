@@ -10,6 +10,7 @@ My passion for problem-solving and analytical thinking naturally led me to pursu
 <a href="https://docs.google.com/document/d/1xgmfpkJrn752i36zQ9PQSQIdJ-Hwts2xOqALGCW882c/edit?usp=sharing">
 <a href="https://docs.google.com/document/d/1ffLytmaaZlxoYXYoDN3l3nN4KBGvzFeNGIyPILqIjv0/edit?usp=sharing">
 <a href="https://docs.google.com/document/d/1aGXO58Z9k2I_LvGVqkOeAMZzEXprBpQ79Iq3bLCKRxY/edit?usp=sharing">Cybersecurity Case Study – ICMP Flood DDoS on Multimedia Company Network</a>
+ <p>This project provides a detailed incident report analyzing an ICMP flood DDoS attack caused by a firewall misconfiguration. It outlines the impact on the internal network and documents the organization’s actions across the NIST Cybersecurity Framework functions—Identify, Protect, Detect, Respond, and Recover. The report highlights the implemented security controls, incident-handling procedures, and recommended recovery steps to prevent similar attacks in the future.</p>
 <br>
  <br>
 <a href="https://docs.google.com/document/d/1wWgwcqHgML6ALM8mZ3Kb2BDQLEGmLBvplLacsKkdXQg/edit?usp=sharing">Linux File Permissions Management Project</a>
