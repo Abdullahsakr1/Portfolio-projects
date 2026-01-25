@@ -21,3 +21,5 @@ My passion for problem-solving and analytical thinking naturally led me to pursu
 <br>
 <a href="https://docs.google.com/document/d/17IjqpFfYEEc7mu_KLWksL-aSIGIn6L4y_vYM0LSKQT4/edit?usp=sharing">Vulnerability Assessment for Publicly Exposed Database Server</a>
 <p>This project contains a vulnerability assessment conducted for an e-commerce company with a publicly accessible database server. The assessment identifies key risks, explains the business impact of the vulnerability, and provides professional recommendations to secure the server and protect sensitive customer data.</p>
+<br>
+<a href="https://docs.google.com/document/d/1jzyc2sjrL8EcWFU4L-quPiiCn2Y1Mhs95zjonx9tZlc/edit?usp=sharing"></a>
