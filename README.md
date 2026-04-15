@@ -1,8 +1,10 @@
-# Professional Statement
+# Professional Summary
 
-I am a dedicated cybersecurity analyst with a strong background in analyzing, auditing, and monitoring internal and external networks to minimize risks, mitigate vulnerabilities, and uphold the highest standards of system integrity.
+Aspiring Cybersecurity Analyst with a strong foundation in network security, log analysis, and incident response. Experienced in identifying security threats, analyzing vulnerabilities, and supporting risk mitigation efforts to enhance system protection.
 
-My passion for problem-solving and analytical thinking naturally led me to pursue a career in cybersecurity. I leverage my strengths, core values, and deep interest in the field to align with and advance organizational security objectives.
+Skilled in applying analytical thinking and problem-solving to investigate security incidents, including phishing and ransomware attacks. Currently advancing expertise through hands-on labs and real-world projects focused on SIEM tools and security operations.
+
+Passionate about cybersecurity and committed to continuously developing technical skills to contribute to organizational security objectives and protect critical assets.
 
 ---
 
