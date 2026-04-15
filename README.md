@@ -23,3 +23,4 @@ My passion for problem-solving and analytical thinking naturally led me to pursu
 <p>This project contains a vulnerability assessment conducted for an e-commerce company with a publicly accessible database server. The assessment identifies key risks, explains the business impact of the vulnerability, and provides professional recommendations to secure the server and protect sensitive customer data.</p>
 <br>
 <a href="https://docs.google.com/document/d/1jzyc2sjrL8EcWFU4L-quPiiCn2Y1Mhs95zjonx9tZlc/edit?usp=sharing"></a>
+<p>Cybersecurity Incident Handler Journal – Phishing Case Study</p>
