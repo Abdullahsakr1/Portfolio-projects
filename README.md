@@ -39,3 +39,6 @@ Passionate about cybersecurity and committed to continuously developing technica
 
 ### [Cybersecurity Incident Handler Journal – Phishing Case Study](https://docs.google.com/document/d/1jzyc2sjrL8EcWFU4L-quPiiCn2Y1Mhs95zjonx9tZlc/edit?usp=sharing)
 * A comprehensive journal detailing the handling of a phishing security incident.
+
+### [Automated IP Allow List Management Using Python](https://docs.google.com/document/d/1QV_4Zhudz9i8yDLwhk5MRC8Mmju6BrXLV6tk37OEVzE/edit?usp=sharing)
+* A Python script that automates the process of managing an allow list of IP addresses by parsing a text file, removing unauthorized IPs, and updating the file. The project demonstrates file handling, data parsing, and the use of loops and conditionals to improve efficiency in access control management.
